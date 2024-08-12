@@ -1,6 +1,6 @@
 
 deployment "development" {
   inputs = {
-    strings = ["a", "b", "c"]
+    strings = ["a", "b"]
   }
 }
